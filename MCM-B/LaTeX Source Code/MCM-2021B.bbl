@@ -1,0 +1,43 @@
+\begin{thebibliography}{1}
+
+\bibitem{878915}
+S.~A. {Bortoff}.
+\newblock Path planning for uavs.
+\newblock In {\em Proceedings of the 2000 American Control Conference. ACC
+  (IEEE Cat. No.00CH36334)}, volume~1, pages 364--368 vol.1, 2000.
+
+\bibitem{gholami2019droneassisted}
+Anousheh Gholami, Usman~A. Fiaz, and John~S. Baras.
+\newblock Drone-assisted communications for remote areas and disaster relief.
+\newblock 2019.
+
+\bibitem{7989656}
+S.~{Hayat}, E.~{Yanmaz}, T.~X. {Brown}, and C.~{Bettstetter}.
+\newblock Multi-objective uav path planning for search and rescue.
+\newblock In {\em 2017 IEEE International Conference on Robotics and Automation
+  (ICRA)}, pages 5569--5574, 2017.
+
+\bibitem{Malandrino_2019}
+Francesco Malandrino, Carla-Fabiana Chiasserini, Claudio Casetti, Luca
+  Chiaraviglio, and Andrea Senacheribbe.
+\newblock Planning uav activities for efficient user coverage in disaster
+  areas.
+\newblock {\em Ad Hoc Networks}, 89:177–185, Jun 2019.
+
+\bibitem{pham2018distributed}
+Huy~Xuan Pham, Hung~Manh La, David Feil-Seifer, and Matthew Dean.
+\newblock A distributed control framework of multiple unmanned aerial vehicles
+  for dynamic wildfire tracking, 2018.
+
+\bibitem{568581}
+M.~F.~J. {Pinkney}, D.~{Hampel}, and S.~{DiPierro}.
+\newblock Unmanned aerial vehicle (uav) communications relay.
+\newblock In {\em Proceedings of MILCOM '96 IEEE Military Communications
+  Conference}, volume~1, pages 47--51 vol.1, 1996.
+
+\bibitem{shakhatreh2018optimal}
+Hazim Shakhatreh and Abdallah Khreishah.
+\newblock Optimal placement of a uav to maximize the lifetime of wireless
+  devices, 2018.
+
+\end{thebibliography}

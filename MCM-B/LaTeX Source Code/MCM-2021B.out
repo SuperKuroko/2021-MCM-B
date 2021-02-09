@@ -1,0 +1,37 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Background}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Restatement of the Problem}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Our Approach}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{General Assumptions, Notations and Model Overview}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{Assumptions}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{Notations}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{Model Overview}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.4}{Dataset}{section.2}% 9
+\BOOKMARK [3][-]{subsubsection.2.4.1}{Data Colletcion}{subsection.2.4}% 10
+\BOOKMARK [3][-]{subsubsection.2.4.2}{Data Cleaning}{subsection.2.4}% 11
+\BOOKMARK [1][-]{section.3}{Model I: Hybrid Drone Routing Model}{}% 12
+\BOOKMARK [2][-]{subsection.3.1}{Model Theory}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.2}{Graham Algorithm}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.3}{Clustering Algorithm}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.4}{Location of EOC}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.5}{Number of UAV}{section.3}% 17
+\BOOKMARK [1][-]{section.4}{Model II: Fire Events Prediction Model}{}% 18
+\BOOKMARK [2][-]{subsection.4.1}{Theoretical Basis}{section.4}% 19
+\BOOKMARK [2][-]{subsection.4.2}{Random Generatation of Fire}{section.4}% 20
+\BOOKMARK [2][-]{subsection.4.3}{Predicted Data of the Next Ten Years}{section.4}% 21
+\BOOKMARK [2][-]{subsection.4.4}{Model Evaluation}{section.4}% 22
+\BOOKMARK [1][-]{section.5}{Model III: Radio-repeater Drone Distribution Model}{}% 23
+\BOOKMARK [2][-]{subsection.5.1}{3D Topography Model}{section.5}% 24
+\BOOKMARK [2][-]{subsection.5.2}{Location of Repeater Drones}{section.5}% 25
+\BOOKMARK [2][-]{subsection.5.3}{Rearrangement of SSA Drones}{section.5}% 26
+\BOOKMARK [2][-]{subsection.5.4}{Display of Optimized Distribution}{section.5}% 27
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 28
+\BOOKMARK [2][-]{subsection.6.1}{Strength}{section.6}% 29
+\BOOKMARK [2][-]{subsection.6.2}{Possible Improvements}{section.6}% 30
+\BOOKMARK [1][-]{section.7}{Discussion}{}% 31
+\BOOKMARK [2][-]{subsection.7.1}{Real-life Scenarios}{section.7}% 32
+\BOOKMARK [2][-]{subsection.7.2}{Suggestion}{section.7}% 33
+\BOOKMARK [1][-]{section.8}{newtitle}{}% 34
+\BOOKMARK [1][-]{section*.1}{Appendices}{}% 35
+\BOOKMARK [1][-]{appendix.a.A}{Appendix Budget Request}{}% 36
+\BOOKMARK [1][-]{appendix.a.B}{Appendix References}{}% 37

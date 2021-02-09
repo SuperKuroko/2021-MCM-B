@@ -1,0 +1,88 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/Algorithm.h
+Node.h
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/Node.h
+Fire.h
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/Fire.h
+Print.h
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/Print.h
+EOC.h
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/EOC.h
+TIME_MODEL.h
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/TIME_MODEL.h
+ctime
+-
+cmath
+-
+algorithm
+-
+stack
+-
+fstream
+-
+unordered_map
+-
+
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/EOC.h
+Fire.h
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/Fire.h
+Node.h
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/Node.h
+
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/Fire.h
+Node.h
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/Node.h
+unordered_set
+-
+unordered_map
+-
+
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/Node.h
+string
+-
+sstream
+-
+iostream
+-
+vector
+-
+
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/Print.h
+vector
+-
+iostream
+-
+Fire.h
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/Fire.h
+
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/TIME_MODEL.h
+ctime
+-
+EOC.h
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/EOC.h
+Fire.h
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/Fire.h
+Node.h
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/Node.h
+cmath
+-
+
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/main.cpp
+fstream
+-
+Node.h
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/Node.h
+Fire.h
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/Fire.h
+EOC.h
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/EOC.h
+Algorithm.h
+D:/Kuroko/CodeSpace/CLion Project/2021-MCM-B/Algorithm.h
+
