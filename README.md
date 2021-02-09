@@ -1,4 +1,6 @@
 # 2021 MCM B Problem Solution and Source Code
+**Document Architecture:**
+
 
 + **C++ Source Code**
   + **2021-MCM-B: A CLion Project -std=C++14 OS=Windows**
