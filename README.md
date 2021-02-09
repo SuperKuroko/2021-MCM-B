@@ -60,5 +60,5 @@
   + **MCM-2021B.doc: package**
   + **Figure: contained pictures**
   + **Reference.bib: bib file that used to generate reference**
-  + **Other files are auxiliary file **
+  + **Other files are auxiliary file**
 + **MCM-2021B.pdf: Final Paper**
